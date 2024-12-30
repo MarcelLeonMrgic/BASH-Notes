@@ -1,3 +1,4 @@
+
 ==What is a Bash Script? ==
 	A Bash Script is a document containing Bash instructions (Who would have thought :-) ) to automate repeating tasks 
 ==which command==
@@ -14,4 +15,3 @@
 	7. to execute our first Bash file write ./nameOfBashFile.sh 
 	It should look something like this:![[Screenshot 2024-12-27 at 09.11.55.png]]
 	![[Screenshot 2024-12-27 at 09.25.29.png]]
-	
